@@ -1,6 +1,6 @@
 # GopherCon 2026 Talks
 
-Slides and Links for 2024 GopherCon talks sorted alphabetically by the speakers' given name.
+Slides and Links for 2026 GopherCon talks sorted alphabetically by the speakers' given name.
 
 ## Main Stage
 

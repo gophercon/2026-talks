@@ -4,8 +4,8 @@ Slides and Links for 2026 GopherCon talks sorted alphabetically by the speakers'
 
 ## Main Stage
 
-- Dylan Bourque - [What slog Left On The Table](./DylanBourque-WhatslogLeftOnTheTable/README.md)
 - Jake Bailey - [State of TypeScript 7: Beyond the Port](./JakeBailey-StateOfTypeScript7BeyondThePort/README.md)
+- Dylan Bourque - [What slog Left On The Table](./DylanBourque-WhatslogLeftOnTheTable/README.md)
 
 ## Lightning Talks
 

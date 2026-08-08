@@ -10,3 +10,4 @@ Slides and Links for 2026 GopherCon talks sorted alphabetically by the speakers'
 ## Lightning Talks
 
 - Takuto Nagami - [The Journey of Connecting Japan to the Global Go Community](./TakutoNagami-TheJourneyofConnectingJapantotheGlobalGoCommunity/README.md)
+- Andy Williams - [Building a Full Desktop in Go!](./AndyWilliams-BuildingaFullDesktopinGo/README.md)

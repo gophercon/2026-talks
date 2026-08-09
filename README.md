@@ -9,4 +9,5 @@ Slides and Links for 2026 GopherCon talks sorted alphabetically by the speakers'
 
 ## Lightning Talks
 
+- Seth Lumnah - [AI is a Power-up, Not a Player](./SethLumnah-AIisaPowerupNotaPlayer/README.md)
 - Takuto Nagami - [The Journey of Connecting Japan to the Global Go Community](./TakutoNagami-TheJourneyofConnectingJapantotheGlobalGoCommunity/README.md)

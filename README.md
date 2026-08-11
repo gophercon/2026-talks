@@ -5,6 +5,7 @@ Slides and Links for 2026 GopherCon talks sorted alphabetically by the speakers'
 ## Main Stage
 
 - Jake Bailey - [State of TypeScript 7: Beyond the Port](./JakeBailey-StateOfTypeScript7BeyondThePort/README.md)
+- Alexander Baygeldin - [(Sync)testing Concurrent Code with Confidence](./AlexanderBaygeldin-SynctestingConcurrentCodeWithConfidence/README.md)
 - Dylan Bourque - [What slog Left On The Table](./DylanBourque-WhatslogLeftOnTheTable/README.md)
 
 ## Lightning Talks

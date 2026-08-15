@@ -8,6 +8,7 @@ Slides and Links for 2026 GopherCon talks sorted alphabetically by the speakers'
 - Alexander Baygeldin - [(Sync)testing Concurrent Code with Confidence](./AlexanderBaygeldin-SynctestingConcurrentCodeWithConfidence/README.md)
 - Dylan Bourque - [What slog Left On The Table](./DylanBourque-WhatslogLeftOnTheTable/README.md)
 - Vladimir Dementyev - [Unlocking Real-World Go Mutex Usage Patterns by Writing a Mutex Linter](./VladimirDementyev-UnlockingRealWorldGoMutexUsagePatternsbyWritingaMutexLinter/README.md)
+- Naoki Kuroda - [Loosening the Reins: Go Generics Get More Flexible](./NaokiKuroda-LooseningtheReinsGoGenericsGetMoreFlexible/README.md)
 - Simon Li - [From Go to Factorio: What Games Can Teach Us About Compilers](./SimonLi-FromGotoFactorioWhatGamesCanTeachUsAboutCompilers/README.md)
 - Achille Roussel - [Sandboxing DuckDB with io/fs](./AchilleRoussel-SandboxingDuckDBwithiofs/README.md)
 - Roland Shoemaker - [The Anatomy of Go Vulnerabilities](./RolandShoemaker-TheAnatomyOfGoVulnerabilities/README.md)

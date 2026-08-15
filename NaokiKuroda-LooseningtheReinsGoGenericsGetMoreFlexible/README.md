@@ -13,5 +13,5 @@ Naoki is a backend engineer at IBM in Japan and an active member of the Go commu
 ## Supporting Materials
 
 - Slides:
-  - [View online](https://speakerdeck.com/kuro_kurorrr/loosening-the-reins-go-generics-get-more-flexible)
+  - [Speaker Deck](https://speakerdeck.com/kuro_kurorrr/loosening-the-reins-go-generics-get-more-flexible)
   - [Download as a PDF](./slides.pdf)

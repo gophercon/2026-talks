@@ -18,6 +18,7 @@ Slides and Links for 2026 GopherCon talks sorted alphabetically by the speakers'
 
 - Garrett Denis - [Nip the Nits in the Bud](./GarrettDenis-NiptheNitsintheBud/README.md)
 - Marc Dougherty - [Safer Agent Infrastructure](./MarcDougherty-SaferAgentInfrastructure/README.md)
+- Ruslan Kadyrov - [h.Sum(data) Does Not Hash Data](./RuslanKadyrov-hSumDataDoesNotHashData/README.md)
 - Simon Law - [Three Simple Data Structures Built on Slices](./SimonLaw-ThreeSimpleDataStructuresBuiltOnSlices/README.md)
 - Seth Lumnah - [AI is a Power-up, Not a Player](./SethLumnah-AIisaPowerupNotaPlayer/README.md)
 - Takuto Nagami - [The Journey of Connecting Japan to the Global Go Community](./TakutoNagami-TheJourneyofConnectingJapantotheGlobalGoCommunity/README.md)
